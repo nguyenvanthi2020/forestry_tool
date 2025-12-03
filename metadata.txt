@@ -13,9 +13,10 @@ version=1.0.0
 author=Nguyễn Văn Thị
 email=thinguyen.xmg@xuanmaijsc.vn
 category=Vector
-tracker=https://github.com/nguyenvanthi2020/bandolamnghiep
-repository=https://github.com/nguyenvanthi2020/bandolamnghiep
+tracker=https://github.com/nguyenvanthi2020/forestry_tool
+repository=https://github.com/nguyenvanthi2020/forestry_tool
 homepage=https://xuanmaijsc.vn
 experimental=False
 deprecated=False
+
 icon=iconlo.png
