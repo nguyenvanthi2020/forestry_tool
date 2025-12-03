@@ -1,0 +1,21 @@
+[general]
+name=Lâm nghiệp 4.0
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+description=Công cụ hỗ trợ xây dựng bản đồ trong lĩnh vực lâm nghiệp
+about= Bộ công cụ gồm nhiều nhóm chức năng:
+     (1) Thống kê: thống kê nhanh với điều kiện, xuất kết quả sang Excel/CSV.
+     (2) Tiện ích Tiếng Việt: chuyển đổi bảng mã, loại bỏ dấu.
+     (3) Tiện ích trường: chuẩn hóa thông tin loại đất, loại rừng, nguồn gốc rừng.
+     (4) Tiện ích Vector: gộp/tách lớp bản đồ với điều kiện, lọc trường.
+     (5) Tiện ích Raster: xử lý DEM, tính độ dốc/hướng dốc, tạo sông suối, phân cấp lưu vực.
+version=1.0.0
+author=Nguyễn Văn Thị
+email=thinguyen.xmg@xuanmaijsc.vn
+category=Vector
+tracker=https://github.com/nguyenvanthi2020/bandolamnghiep
+repository=https://github.com/nguyenvanthi2020/bandolamnghiep
+homepage=https://xuanmaijsc.vn
+experimental=False
+deprecated=False
+icon=iconlo.png

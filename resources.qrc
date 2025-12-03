@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/plugins/forestry_tool">
+    <file>icons/plugin.png</file>
+	<file>icons/split1.png</file>
+	<file>icons/split2.png</file>
+	<file>icons/cutting1.png</file>
+	<file>icons/cutting2.png</file>
+	<file>icons/dgn2shp.png</file>
+	<file>icons/shp2dgn.png</file>
+	<file>icons/font1.png</file>
+	<file>icons/font2.png</file>
+	<file>icons/river1.png</file>
+	<file>icons/river2.png</file>
+	<file>icons/sigma1.png</file>
+	<file>icons/sigma2.png</file>
+	<file>icons/trans1.png</file>
+	<file>icons/trans2.png</file>
+	<file>icons/raster1.png</file>
+	<file>icons/raster2.png</file>
+  </qresource>
+</RCC>
